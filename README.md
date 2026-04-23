@@ -1,5 +1,5 @@
 ## 📺 Dashboard Demo Video
-[watch the full project walkthrough ](CarSales_Dashbboard_Walkthrough.mp4)
+[watch the full project walkthrough ](CarSales_Dashbboard_Walkthrough.gif)
 ![Car Sales Dashboard](CarSales_Dasboard.png)
 # Car Sales Analysis Dashboard
 
