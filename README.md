@@ -1,3 +1,4 @@
+![Car Sales Dashboard](CarSales_Dasboard.png)
 # Car Sales Analysis Dashboard
 
 ## Project Overview
